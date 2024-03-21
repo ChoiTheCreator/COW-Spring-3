@@ -13,145 +13,170 @@
     * 그것에 대한 답을 찾아가고, 최종적으로 남들에게 설명 가능해야 비로소 그 개념을 안다고 말할 수 있습니다.
     * 학습에 깊이를 더해 나가는 COW 스프링 여러분들의 공부 결과물을 마음껏 작성해주세요🙂
 
-[//]: # ()
-[//]: # (### 👩‍👧‍👦 Member)
 
-[//]: # ()
-[//]: # (<center>)
-
-[//]: # (<table  width="100%">)
-
-[//]: # (  <tr>)
-
-[//]: # (    <td  align="center">)
-
-[//]: # (      <img  src="https://avatars.githubusercontent.com/u/61446702?v=4"  width="100px;"  alt=""/>)
-
-[//]: # (    </td>)
-
-[//]: # (    <td  align="center">)
-
-[//]: # (      <img  src="https://avatars.githubusercontent.com/u/68328998?v=4"  width="100px;"  alt=""/>)
-
-[//]: # (    </td>)
-
-[//]: # (    <td  align="center">)
-
-[//]: # (      <img  src="https://avatars.githubusercontent.com/u/120346721?v=4"  width="100px;"  alt=""/>)
-
-[//]: # (    </td>)
-
-[//]: # (    <td  align="center">)
-
-[//]: # (      <img  src="https://avatars.githubusercontent.com/u/108182934?v=4"  width="100px;"  alt=""/>)
-
-[//]: # (    </td>)
-
-[//]: # (  </tr>)
-
-[//]: # (  <tr>)
-
-[//]: # (    <td align="center">)
-
-[//]: # (        <a href="https://github.com/woowal">)
-
-[//]: # (            <div>현우</div>)
-
-[//]: # (        </a>)
-
-[//]: # (    </td>)
-
-[//]: # (    <td align="center">)
-
-[//]: # (        <a href="https://github.com/TaetaetaE01">)
-
-[//]: # (            <div>태현</div>)
-
-[//]: # (        </a>)
-
-[//]: # (    </td>)
-
-[//]: # (    <td align="center">)
-
-[//]: # (        <a href="https://github.com/0702Yoon">)
-
-[//]: # (            <div>상윤</div>)
-
-[//]: # (        </a>)
-
-[//]: # (    </td>)
-
-[//]: # (    <td align="center">)
-
-[//]: # (        <a href="https://github.com/jina4066">)
-
-[//]: # (            <div>지나</div>)
-
-[//]: # (        </a>)
-
-[//]: # (    </td>)
-
-[//]: # (  </tr>)
-
-[//]: # (    <tr>)
-
-[//]: # (    <td  align="center">)
-
-[//]: # (      <img  src="https://avatars.githubusercontent.com/u/97429550?v=4"  width="100px;"  alt=""/>)
-
-[//]: # (    </td>)
-
-[//]: # (    <td  align="center">)
-
-[//]: # (      <img  src="https://avatars.githubusercontent.com/u/103747580?v=4"  width="100px;"  alt=""/>)
-
-[//]: # (    </td>)
-
-[//]: # (    <td  align="center">)
-
-[//]: # (      <img  src="https://avatars.githubusercontent.com/u/132640569?v=4"  width="100px;"  alt=""/>)
-
-[//]: # (    </td>)
-
-[//]: # (  </tr>)
-
-[//]: # (  <tr>)
-
-[//]: # (    <td align="center">)
-
-[//]: # (        <a href="https://github.com/Erichong7">)
-
-[//]: # (            <div>정우</div>)
-
-[//]: # (        </a>)
-
-[//]: # (    </td>)
-
-[//]: # (    <td align="center">)
-
-[//]: # (        <a href="https://github.com/wambatcodeeee">)
-
-[//]: # (            <div>준용</div>)
-
-[//]: # (        </a>)
-
-[//]: # (    </td>)
-
-[//]: # (    <td align="center">)
-
-[//]: # (        <a href="https://github.com/gyuchangShim">)
-
-[//]: # (            <div>규창</div>)
-
-[//]: # (        </a>)
-
-[//]: # (    </td>)
-
-[//]: # (  </tr>)
-
-[//]: # (</table>)
-
-[//]: # (</center>)
+### 👩‍👧‍👦 멘토
+
+
+<center>
+<table  width="100%">
+  <tr>
+    <td  align="center">
+      <img  src="https://avatars.githubusercontent.com/u/96857599?v=4"  width="100px;"  alt=""/>
+    </td>
+    <td  align="center">
+      <img  src="https://avatars.githubusercontent.com/u/120346721?v=4"  width="100px;"  alt=""/>
+    </td>
+    <td  align="center">
+      <img  src="https://avatars.githubusercontent.com/u/127813439?v=4"  width="100px;"  alt=""/>
+    </td>
+    <td  align="center">
+      <img  src="https://avatars.githubusercontent.com/u/106325839?v=4"  width="100px;"  alt=""/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+        <a href="https://github.com/Hoya324">
+            <div>나경호</div>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/0702Yoon">
+            <div>한상윤</div>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/KoSeonJe">
+            <div>고선제</div>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/5uhwann">
+            <div>박수환</div>
+        </a>
+    </td>
+  </tr>
+    <tr>
+    <td  align="center">
+      <img  src="https://avatars.githubusercontent.com/u/68328998?v=4"  width="100px;"  alt=""/>
+    </td>    
+    <td  align="center">
+      <img  src="https://avatars.githubusercontent.com/u/104254012?v=4"  width="100px;"  alt=""/>
+    </td>    
+<td  align="center">
+      <img  src="https://avatars.githubusercontent.com/u/97429550?v=4"  width="100px;"  alt=""/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+        <a href="https://github.com/TaetaetaE01">
+            <div>고태현</div>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Gopistol">
+            <div>고건</div>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Erichong7">
+            <div>홍정우</div>
+        </a>
+    </td>
+  </tr>
+</table>
+</center>
+
+### 👩‍👧‍👦 멘티
+
+
+<center>
+<table  width="100%">
+  <tr>
+    <td  align="center">
+      <img  src="https://avatars.githubusercontent.com/u/71001678?v=4"  width="100px;"  alt=""/>
+    </td>
+    <td  align="center">
+      <img  src="https://avatars.githubusercontent.com/u/136984070?v=4"  width="100px;"  alt=""/>
+    </td>
+    <td  align="center">
+      <img  src="https://avatars.githubusercontent.com/u/111961655?v=4"  width="100px;"  alt=""/>
+    </td>
+    <td  align="center">
+      <img  src="https://avatars.githubusercontent.com/u/146515616?v=4"  width="100px;"  alt=""/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+        <a href="https://github.com/win9-tech">
+            <div>한승규</div>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/qwejiung">
+            <div>김지웅</div>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/starshape7">
+            <div>추연우</div>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/BaekJaehyuk">
+            <div>백재혁</div>
+        </a>
+    </td>
+  </tr>
+    <tr>
+    <td  align="center">
+      <img  src="https://avatars.githubusercontent.com/u/81899652?v=4"  width="100px;"  alt=""/>
+    </td>    
+    <td  align="center">
+      <img  src="https://avatars.githubusercontent.com/u/147716165?v=4"  width="100px;"  alt=""/>
+    </td>    
+    <td  align="center">
+      <img  src="https://avatars.githubusercontent.com/u/42500530?v=4"  width="100px;"  alt=""/>
+    </td>
+    <td  align="center">
+      <img  src="https://avatars.githubusercontent.com/u/129913026?v=4"  width="100px;"  alt=""/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+        <a href="https://github.com/0711kc">
+            <div>김찬</div>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/ChoiTheCreator">
+            <div>최원빈</div>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/tiemo0708">
+            <div>박진현</div>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Juuuu-power-e">
+            <div>이승주</div>
+        </a>
+    </td>
+  </tr>
+  <tr>
+    <td  align="center">
+      <img  src="https://avatars.githubusercontent.com/u/136908616?v=4"  width="100px;"  alt=""/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+        <a href="https://github.com/baaamk">
+            <div>방현우</div>
+        </a>
+    </td>
+  </tr>
+</table>
+</center>
 
 ## 📖 커리큘럼
 
