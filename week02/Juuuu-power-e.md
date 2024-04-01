@@ -34,10 +34,9 @@
     이러한 경우, 계좌 번호는 총 11자리로 구성됩니다. 이 숫자는 각 은행에서 고유하게 할당됩니다. 각 은행은 자체적으로 이러한 계좌 번호를 생성하고 관리할 수 있습니다.
 
 2. 사용쿼리 : 계좌번호에 올바른 검증숫자(11번째 수)를 만들어주는 메소드
-        private String createVerifyNum(String accountNum) {
-            
-        }
-    를 완성해줘
+    String createVerifyNum(String accountNum)를 완성해줘
+
+    ```
     private String createVerifyNum(String accountNum) {
     int[] weights = {2, 3, 4, 5, 6, 7, 8, 9, 2, 3, 4}; // 각 숫자에 곱해질 가중치
 
@@ -63,5 +62,6 @@
         verifyNum = 11 - remainder;
 
     return String.valueOf(verifyNum);
-}
+    }
+```
 
